@@ -2,8 +2,7 @@
 
 
 # Anggota
-Gopi Mahendra (G1A021005)
-Syakira Az Zahra (G1A021057)
+Gopi Mahendra (G1A021005) dan Syakira Az Zahra (G1A021057)
 
 # Judul Proyek
 Klasifikasi Jenis Sampah Menggunakan EfficientNetV2B0
